@@ -1,0 +1,25 @@
+{
+  "firstName": "Amod",
+  "lastName": "Mahajan"
+}
+
+------------------
+
+{
+  "firstName": "Amod",
+  "lastName": "Mahajan",
+  "address": {
+    "houseNo": 404,
+    "buildingName": "Not Found",
+    "streetName": "Gumnam gali",
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "country": "India"
+  },
+  "skills": {
+    "language": {
+      "name": "Java",
+      "proficiency": "Medium"
+    }
+  }
+}
