@@ -1,0 +1,49 @@
+{
+  "firstName": "Amod",
+  "lastName": "Mahajan",
+  "address": [
+    {
+      "type": "permanent",
+      "city": "Bengaluru",
+      "state": "KA"
+    },
+    {
+      "type": "temp",
+      "city": "Bhopal",
+      "state": "MP"
+    }
+  ]
+}
+
+--------------
+
+{
+  "firstName": "Amod",
+  "lastName": "Mahajan",
+  "address": [
+    [
+      {
+        "type": "permanent",
+        "city": "Bengaluru",
+        "state": "KA"
+      },
+      {
+        "type": "temp",
+        "city": "Bhopal",
+        "state": "MP"
+      }
+    ],
+    [
+      {
+        "type": "communication",
+        "city": "Delhi",
+        "state": "DL"
+      },
+      {
+        "type": "old",
+        "city": "Kanpur",
+        "state": "UP"
+      }
+    ]
+  ]
+}
